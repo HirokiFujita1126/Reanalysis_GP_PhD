@@ -1,4 +1,4 @@
-"subject","type","item","condition","question","correct_answer","response","rt","group_G","ambiguity_G","ambiguity","group"
+"subject","type","item","condition","question","correct_answer","response","reading_time","group_G","ambiguity_G","ambiguity","group"
 "Native 1","gp",14,"b","0","-","-",3384,"Native","Unambiguous",-0.5,-0.5
 "Native 1","gp",3,"c","0","-","-",4156,"Native","Ambiguous",0.5,-0.5
 "Native 1","gp",4,"d","0","-","-",3489,"Native","Unambiguous",-0.5,-0.5
